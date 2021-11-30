@@ -164,7 +164,7 @@ sections:
   - colors: colors-h
     elementId: ''
     title: 'Icons are here, there and everywhere'
-    subtitle: Not all USB disks are created equalal
+    subtitle: Not all USB disks are created equala
     items:
       - type: FeaturedItem
         title: Faster
