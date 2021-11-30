@@ -164,9 +164,7 @@ sections:
   - colors: colors-h
     elementId: ''
     title: 'Icons are here, there and everywhere'
-    subtitle: >-
-      These are all excellent features that will provide exactly the things
-      you’re looking for.
+    subtitle: Not all USB disks are created equ
     items:
       - type: FeaturedItem
         title: Faster
